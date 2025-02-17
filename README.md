@@ -1,4 +1,4 @@
-# An AI Code Reviewer 🚀 
+# An AI-Driven Python Code Reviewer 🚀 
 
 ## 📌 Overview
 This is a Python-based application built using **Streamlit** and **Google Gemini AI** to analyze and review Python code. The application detects potential bugs, logical errors, and areas for improvement, providing suggestions and fixes.
