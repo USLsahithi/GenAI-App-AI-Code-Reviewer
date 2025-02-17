@@ -14,7 +14,7 @@ sys_prompt = """You are an advanced Python instructor and code reviewer.Your tas
 
 gemini_model = ai.GenerativeModel(model_name="models/gemini-1.5-pro", system_instruction=sys_prompt)
 
-st.title("An AI Code Reviewer🚀")
+st.title("AI-driven Python Code Reviewer🚀")
 
 user_input = st.text_area(label="Place your Python code here")
 
