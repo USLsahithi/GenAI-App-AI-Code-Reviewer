@@ -48,9 +48,5 @@ ai.configure(api_key = "YOUR_API_KEY")
 ## 🤝 Contributing
 Feel free to fork this repository and enhance the functionality!
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
-## 📩 Contact
-For any questions or feedback, reach out at [your-email@example.com].
 
